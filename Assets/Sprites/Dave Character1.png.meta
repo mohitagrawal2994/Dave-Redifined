@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 437036680792d2f48994d59b6201f276
+timeCreated: 1494965345
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dave Character1_0
+    21300002: Dave Character1_1
+    21300004: Dave Character1_2
+    21300006: Dave Character1_3
+    21300008: Dave Character1_4
+    21300010: Dave Character1_5
+    21300012: Dave Character1_6
+    21300014: Dave Character1_7
+    21300016: Dave Character1_8
+    21300018: Dave Character1_9
+    21300020: Dave Character1_10
+    21300022: Dave Character1_11
+    21300024: Dave Character1_12
+    21300026: Dave Character1_13
+    21300028: Dave Character1_14
+    21300030: Dave Character1_15
+    21300032: Dave Character1_16
+    21300034: Dave Character1_17
+    21300036: Dave Character1_18
+    21300038: Dave Character1_19
+    21300040: Dave Character1_20
+    21300042: Dave Character1_21
+    21300044: Dave Character1_22
+    21300046: Dave Character1_23
+    21300048: Dave Character1_24
+    21300050: Dave Character1_25
+    21300052: Dave Character1_26
+    21300054: Dave Character1_27
+    21300056: Dave Character1_28
+    21300058: Dave Character1_29
+    21300060: Dave Character1_30
+    21300062: Dave Character1_31
+    21300064: Dave Character1_32
+    21300066: Dave Character1_33
+    21300068: Dave Character1_34
+    21300070: Dave Character1_35
+    21300072: Dave Character1_36
+    21300074: Dave Character1_37
+    21300076: Dave Character1_38
+    21300078: Dave Character1_39
+    21300080: Dave Character1_40
+    21300082: Dave Character1_41
+    21300084: Dave Character1_42
+    21300086: Dave Character1_43
+    21300088: Dave Character1_44
+    21300090: Dave Character1_45
+    21300092: Dave Character1_46
+    21300094: Dave Character1_47
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dave Character1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1766
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1766
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1761
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1761
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_4
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1759
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_5
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1759
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_6
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1759
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_7
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1759
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_8
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1759
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_9
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1759
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_10
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1759
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_11
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1759
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1465
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1465
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1478
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1478
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_16
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1476
+        width: 165
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_17
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1476
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_18
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1466
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_19
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1465
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_20
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1465
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_21
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1465
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_22
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1465
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_23
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1465
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1174
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1174
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1185
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1185
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_28
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1185
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_29
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1185
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_30
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1174
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_31
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1174
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_32
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1176
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_33
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1176
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_34
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1176
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dave Character1_35
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1176
+        width: 165
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
